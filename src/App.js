@@ -5,6 +5,7 @@ import Product from './pages/HomepageBody/productGrid';
 import Productsslider from './pages/HomepageBody/productslider1';
 import Router from './pages/allroutes';
 import Body from './pages/HomepageBody/Body';
+import Categories from './components/categories';
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       <Router />
       {/* <Body/> */}
       {/* <Body/> */}
-      
+      {/* <Categories/> */}
     </div>
   );
 }

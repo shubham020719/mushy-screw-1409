@@ -1,20 +1,5 @@
-// import img1 from "./slider1.png"
-// import img2 from "./slider2.png"
-// import { useState } from "react";
-// import { useEffect } from "react";
-import styles from "./slide.css"
-// export default function Slider() {
-//     const img = [img1, img2];
-//     const [i, seti] = useState(0);
-//     return (
-//         <div>
-//             <img className="slide" src={img2} alt="" slider-img />
-//         </div>
-//     )
-// }
-
-import { Box, Image } from "@chakra-ui/react";
-// import "./Slide.css";
+import "./slide.css"
+import { Box,} from "@chakra-ui/react";
 
 export default function Slider() {
     return (
