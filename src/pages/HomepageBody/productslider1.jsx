@@ -1,7 +1,7 @@
 import { Button, Heading, Stack } from "@chakra-ui/react"
 import Confused from "./confused"
 import NEWLaunch from "./newlaunch/NEWLaunch"
-import styles from "./slide.css"
+import "./slide.css"
 import brand from "./images/brand.png"
 import SYAHeading from "./StartYourAudiophile/SYAHeading"
 import SYAmul from "./StartYourAudiophile/SYAmul"
@@ -24,7 +24,7 @@ export default function Productsslider() {
             <br></br>
             <div className="prdcts">
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-CCA-LYRA-01_500x.jpg?v=1659512980" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-CCA-LYRA-01_500x.jpg?v=1659512980" alt="prdctimg" />
                     <h3 className="bold">CCA - LYRA</h3>
                     <h5>In-Ears With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 2,499</p>
@@ -33,7 +33,7 @@ export default function Productsslider() {
                     <p className="review">65 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-KZ-ZEX-Black-2_500x.jpg?v=1632918833" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-KZ-ZEX-Black-2_500x.jpg?v=1632918833" alt="prdctimg" />
                     <h3 className="bold">KZ - ZEX</h3>
                     <h5>In-Ears With 1 DD + 1 EST Driver </h5>
                     <p className="cutPrice" >MRP: ₹ 2,499</p>
@@ -42,7 +42,7 @@ export default function Productsslider() {
                     <p className="review">368 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-7HZ-Salnotes-ZERO-Black-01_500x.jpg?v=1660714478" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-7HZ-Salnotes-ZERO-Black-01_500x.jpg?v=1660714478" alt="prdctimg" />
                     <h3 className="bold">7HZ - SALNOTES ZERO</h3>
                     <h5>In-Ears With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 2,299</p>
@@ -51,7 +51,7 @@ export default function Productsslider() {
                     <p className="review">87 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/soundmagic-e11c-black-headphone-zone-5369095847999_500x.jpg?v=1580360044" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/soundmagic-e11c-black-headphone-zone-5369095847999_500x.jpg?v=1580360044" alt="prdctimg" />
                     <h3 className="bold">FINAL - A3000</h3>
                     <h5>In-Ears With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 12,499</p>
@@ -60,7 +60,7 @@ export default function Productsslider() {
                     <p className="review">9 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Moondrop-CHU-Without-Mic-02_500x.jpg?v=1662011091" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Moondrop-CHU-Without-Mic-02_500x.jpg?v=1662011091" alt="prdctimg" />
                     <h3 className="bold">SOUNDMAGIC</h3>
                     <h5>Earphones With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 3,499</p>
@@ -69,7 +69,7 @@ export default function Productsslider() {
                     <p className="review">431 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/headphone-Zone-Moondrop-Aria-2_500x.jpg?v=1663323157" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/headphone-Zone-Moondrop-Aria-2_500x.jpg?v=1663323157" alt="prdctimg" />
                     <h3 className="bold">MOONDROP - ARIA</h3>
                     <h5 >In-Ears With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 8,499</p>
@@ -98,7 +98,7 @@ export default function Productsslider() {
             </Stack>
             <div className="prdcts">
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/4_e2bc35c9-7072-4b03-9f4a-24da04aed7b4_500x.jpg?v=1663224444" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/4_e2bc35c9-7072-4b03-9f4a-24da04aed7b4_500x.jpg?v=1663224444" alt="prdctimg" />
                     <h3 className="bold">CCA - LYRA</h3>
                     <h5>In-Ears With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 2,499</p>
@@ -107,7 +107,7 @@ export default function Productsslider() {
                     <p className="review">65 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Ara-02_500x.jpg?v=1591607325" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Ara-02_500x.jpg?v=1591607325" alt="prdctimg" />
                     <h3 className="bold">KZ - ZEX</h3>
                     <h5>In-Ears With 1 DD + 1 EST Driver </h5>
                     <p className="cutPrice" >MRP: ₹ 2,499</p>
@@ -116,7 +116,7 @@ export default function Productsslider() {
                     <p className="review">368 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Noble-Audio-Jade-04_500x.jpg?v=1652084205" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Noble-Audio-Jade-04_500x.jpg?v=1652084205" alt="prdctimg" />
                     <h3 className="bold">7HZ - SALNOTES ZERO</h3>
                     <h5>In-Ears With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 2,299</p>
@@ -125,7 +125,7 @@ export default function Productsslider() {
                     <p className="review">87 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Andromeda-2020-3_500x.jpg?v=1589970936" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Andromeda-2020-3_500x.jpg?v=1589970936" alt="prdctimg" />
                     <h3 className="bold">FINAL - A3000</h3>
                     <h5>In-Ears With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 12,499</p>
@@ -134,7 +134,7 @@ export default function Productsslider() {
                     <p className="review">9 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-zone-Unique-Melody-MKII-1160-1160-2_700x.jpg?v=1629701850" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-zone-Unique-Melody-MKII-1160-1160-2_700x.jpg?v=1629701850" alt="prdctimg" />
                     <h3 className="bold">SOUNDMAGIC</h3>
                     <h5>Earphones With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 3,499</p>
@@ -143,7 +143,7 @@ export default function Productsslider() {
                     <p className="review">431 reviews</p>
                 </div>
                 <div className="eachprdct">
-                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-FiiO-FH5s-01_c0e6da60-45a5-4218-8a59-6e5f66fa3486_900x.jpg?v=1631871302" alt="" />
+                    <img src="https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-FiiO-FH5s-01_c0e6da60-45a5-4218-8a59-6e5f66fa3486_900x.jpg?v=1631871302" alt="prdctimg" />
                     <h3 className="bold">MOONDROP - ARIA</h3>
                     <h5 >In-Ears With 1 Dynamic Driver</h5>
                     <p className="cutPrice">MRP: ₹ 8,499</p>
@@ -180,7 +180,7 @@ export default function Productsslider() {
             <NEWLaunch />
             <Confused />
             <div className="brand">
-                <img src={brand} />
+                <img src={brand} alt="brand"/>
             </div>
             <Footerfun />
         </>

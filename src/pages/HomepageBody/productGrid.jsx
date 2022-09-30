@@ -1,5 +1,5 @@
 import { Heading, Text } from "@chakra-ui/react"
-import styles from "./slide.css";
+import "./slide.css";
 import banner from "./images/banner.png"
 
 export default function Product(){
@@ -72,13 +72,13 @@ export default function Product(){
                 <h5>Wired In-Ears For Gaming & VR</h5>
             </div> 
             <div className="card">
-                <img src="https://cdn.shopify.com/s/files/1/0153/8863/files/Headphone-Zone-HiFiMAN-Sundara-250-250.jpg?v=1663240397" />
+                <img src="https://cdn.shopify.com/s/files/1/0153/8863/files/Headphone-Zone-HiFiMAN-Sundara-250-250.jpg?v=1663240397" alt="pr"/>
                 <h3>meze 12 classics V2</h3>
                 <h5>Get flat 61.55% off</h5>
             </div> 
             </div>
             <div className="banner">
-                <img src={banner} />
+                <img src={banner} alt="banner"/>
             </div>
         </>
     )
