@@ -1,0 +1,131 @@
+ .dynamicfullsecond {
+     text-align: start;
+ }
+
+ .boldText {
+     font-size: 30px;
+     font-weight: 550;
+ }
+
+ .checkout {
+     width: 80%;
+     margin: auto;
+     display: flex;
+     gap: 40px;
+ }
+
+ .firstCol {
+     width: 50%;
+     text-align: start;
+     margin-top: 20px;
+ }
+
+ .secondCol {
+     width: 50%;
+     background-color: rgb(248, 247, 247);
+     border-radius: 10px;
+     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+ }
+
+ .ship {
+     font-size: 18px;
+     margin-top: 30px;
+ }
+
+ .Row3 {
+     display: flex;
+ }
+
+ .pymntbtn {
+     text-align: end;
+     /* border:1px solid; */
+ }
+
+ .secondColDiv {
+     width: 80%;
+     padding-top: 10px;
+     margin: auto;
+     display: flex;
+     justify-content: space-around;
+     /* margin-bottom: 20px; */
+     align-items: center;
+ }
+
+ .secondColDiv>img {
+     width: 20%;
+     height: 20%;
+     margin-right: 10px;
+     border-radius: 10px
+ }
+
+ .checkoutpagetext {
+     font-size: 14px;
+ }
+
+ .checkoutpageprice {
+     font-size: 16px;
+     margin-left: 10px;
+     color: rgb(17, 0, 0);
+ }
+
+ .giftSec {
+     width: 80%;
+     margin: auto;
+     display: flex;
+     gap: 20px;
+ }
+
+ .grnd {
+     color: blue;
+     margin: auto;
+     width: 80%;
+     display: flex;
+     justify-content: flex-end;
+     font-size: 20px;
+     font-weight: bold;
+ }
+
+ .Tax {
+     margin: auto;
+     width: 80%;
+     display: flex;
+     justify-content: flex-end;
+     font-size: 14px;
+     margin-top: 20px;
+ }
+
+ .paymnt1Div {
+     border: 1px rgb(201, 198, 198) solid;
+     border-radius: 5px;
+ }
+
+ .pymnt1 {
+     display: flex;
+     gap: 50px;
+     padding: 10px;
+ }
+
+ .text1 {
+     display: flex;
+     color: gray;
+ }
+
+ .chngText {
+     margin-left: 155px;
+ }
+
+ .pymnt2 {
+     justify-content: flex-start;
+     margin-top: 30px;
+ }
+
+ .pymntText1 {
+     font-size: 18px;
+ }
+ .drwrbdy{
+    background-color:rgb(223, 200, 233);
+ }
+ .finalBtnDiv{
+    margin-top: 30px;
+    text-align: end;
+ }

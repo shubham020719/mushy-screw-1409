@@ -11,3 +11,17 @@
     display:flex;
     gap: 20px;
 }
+.eachprdctCart{
+    width:100%;
+    display:flex;
+    margin-top: 10px;
+}
+.cartDisc{
+    width:60%
+}
+.cartImg{
+    width: 30%;
+}
+.headphoneLlogo:hover{
+    cursor: pointer;
+}
