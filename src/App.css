@@ -1,11 +1,17 @@
+* {
+  font-family: roboto, sans-serif;
+}
+
 .App {
   text-align: center;
-  font-family:roboto,sans-serif;
+  font-family: roboto, sans-serif;
 }
-.slider{
-  width:100%;
-  border:1px solid
+
+.slider {
+  width: 100%;
+  border: 1px solid
 }
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,6 +42,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
